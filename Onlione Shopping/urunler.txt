@@ -1,0 +1,15 @@
+Bilgisayar,dizustu bilgisayar,hp, folio ,15,1450,1750,dizustu-bilgisayar-usb
+Beyaz Eþya,camasir makinesi, arcelik ,a142 ,10,1320,1890,a-enerji-sinifi
+Elektronik, klavye ,logitech,g103,5,30,76,oyun-klavyesi
+Giyim,kazak,avva,triko,12,100,200,balikci yaka-triko
+Kirtasiye,kalem,fabercastel,greenx,100,5,175,uclu-kalem  
+Bilgisayar,kasa,asus,x450,10,1000,2500,sogutmali-kasa
+Bilgisayar,monitor,hp,pavillion,100,300,750,17-inc-monitor-usb 
+Giyim,mont,avva,greendays,2,250,650,termal-mont-usb 
+Bilgisayar,monitor,dell,asx23,25,200,979,19-inc-monitor
+Giyim,buzpateni,edea,piano,3,1500,3000,ust-seviye-paten
+Bilgisayar,monitor,ph,pavillion,100,300,750,17-inc-monitor
+Bilgisayar,dizustu bilgisayar,dell,inspiron,25,1000,2298,i5-1tb-harddisk-usb
+Bilgisayar,dizustu bilgisayar,hp,radeon520,10,890,2099,4gb-ram-500gb-harddisk-usb
+Giyim,buzpateni,jackson,glacier,4,100,352,bayan-buz-pateni
+Giyim,mont,koton,dolgumont,5,54,199,kýslýk-erkek-mont
